@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A CLI tool to bootstrap a Reveal.js presentation",
   "main": "index.js",
+  "bin": {
+    "bootstrap-reveal-deck": "node index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,6 +26,11 @@
   },
   "homepage": "https://github.com/quilicicf/RevealPresentationMaker#readme",
   "dependencies": {
-    "reveal.js": "3.9.2"
+    "chalk": "4.0.0",
+    "debug": "4.1.1",
+    "enquirer": "2.3.5",
+    "lodash": "4.17.15",
+    "reveal.js": "3.9.2",
+    "yargs": "15.3.1"
   }
 }
