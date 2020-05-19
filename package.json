@@ -1,0 +1,28 @@
+{
+  "name": "@quilicicf/reveal-presentation-maker",
+  "version": "1.0.0",
+  "description": "A CLI tool to bootstrap a Reveal.js presentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quilicicf/RevealPresentationMaker.git"
+  },
+  "keywords": [
+    "reveal",
+    "bootstrap",
+    "presentation",
+    "slides"
+  ],
+  "author": "quilicicf <quilicicf@gmail.com> (https://github.com/quilicicf)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/quilicicf/RevealPresentationMaker/issues"
+  },
+  "homepage": "https://github.com/quilicicf/RevealPresentationMaker#readme",
+  "dependencies": {
+    "reveal.js": "3.9.2"
+  }
+}
