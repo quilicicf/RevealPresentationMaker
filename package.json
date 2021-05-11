@@ -29,7 +29,7 @@
     "chalk": "4.0.0",
     "debug": "4.1.1",
     "enquirer": "2.3.5",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "reveal.js": "3.9.2",
     "yargs": "15.3.1"
   }
